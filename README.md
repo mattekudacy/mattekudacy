@@ -26,19 +26,19 @@ You can find me on <a href="https://www.linkedin.com/in/cyrusmante/"><img src="h
 
 
 ## &#x1f4c8; My GitHub Stats
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/mattekudacy/mattekudacy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattekudacy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/mattekudacy/mattekudacy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattekudacy&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Cyrus' GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
+<a href="https://github.com/mattekudacy/yolo-train-assignment">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattekudacy&repo=yolo-train-assignment&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/mattekudacy/spotify-recommendation-and-analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattekudacy&repo=spotify-recommendation-and-analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 <!--

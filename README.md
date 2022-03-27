@@ -39,7 +39,7 @@ You can find me on <a href="https://www.linkedin.com/in/cyrusmante/"><img src="h
 
 
 <a href="https://github.com/mattekudacy/spotify-recommendation-and-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattekudacy&repo=spotify-recommendation-and-analysis&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattekudacy&repo=spotify-recommendation-and-analysis&hline_height=50&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 <!--
 **mattekudacy/mattekudacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

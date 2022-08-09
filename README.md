@@ -1,5 +1,5 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I am <b> Cyrus Mante </b>. I aspire to be a Data Scientist one day! I am currently working as a Data Analytics and Innovation Intern and an Advocate for Open Smart Cities. 
+I am <b> Cyrus Mante </b>. I aspire to be a Data Scientist one day! I am currently working as a Data Analytics and Innovation Intern, Advocate for Open Smart Cities, Data Analytics Intern, and a Student Ambassador at AngelHack. 
 You can find me on <a href="https://www.linkedin.com/in/cyrusmante/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=20px ></a> and in <a href="https://twitter.com/chonkerz101"><img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" width=30px></a>
 
 ## 🔧 Technologies & Tools I Use

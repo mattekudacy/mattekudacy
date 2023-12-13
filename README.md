@@ -34,7 +34,7 @@ You can find me on <a href="https://www.linkedin.com/in/cyrusmante/"><img src="h
 </a>
 
 <a href="https://github.com/mattekudacy/notevision-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattekudacy&repo=yolo-train-assignment&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattekudacy&repo=notevision-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 

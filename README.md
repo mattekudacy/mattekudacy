@@ -25,21 +25,27 @@ I am <b> Cyrus Mante</b>.I am currently working as a Freelance Data Scientist, A
 
 
 ## &#x1f4c8; My GitHub Stats
+<div align="center">
 <a href="https://github.com/mattekudacy/mattekudacy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattekudacy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattekudacy&theme=radical" />
 </a>
 <a href="https://github.com/mattekudacy/mattekudacy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattekudacy&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Cyrus' GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattekudacy&show_icons=true&line_height=40&count_private=true&theme=radical" alt="Cyrus' GitHub Stats" />
 </a>
 
 <a href="https://github.com/mattekudacy/notevision-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattekudacy&repo=notevision-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattekudacy&repo=notevision-app&theme=radical" />
 </a>
 
-
 <a href="https://github.com/mattekudacy/spotify-recommendation-and-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattekudacy&repo=spotify-recommendation-and-analysis&hline_height=50&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattekudacy&repo=spotify-recommendation-and-analysis&hline_height=50&theme=radical" />
 </a>  
+
+
+<a href="https://streak-stats.demolab.com?user=mattekudacy&theme=radical">
+  <img src="https://streak-stats.demolab.com?user=mattekudacy&theme=radical" width=420/>
+</a>
+</div>
 
 
 <!--

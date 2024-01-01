@@ -42,9 +42,6 @@ I am <b> Cyrus Mante</b>.I am currently working as a Freelance Data Scientist, A
 </a>  
 
 
-<img align="center" src="https://raw.githubusercontent.com/mattekudacy/mattekudacy/0bf81108b54d6c3ea99320ce3834f4754879c655/mattekudacy.svg" width=800px/>
-
-
 <!--
 **mattekudacy/mattekudacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

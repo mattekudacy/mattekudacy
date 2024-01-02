@@ -1,5 +1,8 @@
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div align="center">
+<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello and Welcome! 🧑‍💻</h1>
+
 I am <b> Cyrus Mante</b>.I am currently working as a Freelance Data Scientist, Advocate for Open Smart Cities, and Founder of Google Developer Student Clubs UEC <img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" width=20px>. I specialize in Data Science, Machine Learning, Artificial Intelligence, and Computer Vision.
+</div>
 
 ## &#x1f4c8; My GitHub Stats
 <div align="left">

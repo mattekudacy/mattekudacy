@@ -42,12 +42,12 @@ I am <b> Cyrus Mante</b>.I am currently working as a Freelance Data Scientist, A
 <img align="left" alt="Google Collab" width="26px" src="https://repository-images.githubusercontent.com/228673061/b2c25180-3bff-11ea-965f-4b34f4c6be08" />
 <img align="left" alt="GitBash" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" />
 <img align="left" alt="AWS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" />
-<img align="left" alt="AWS Sagemaker" width="70px" src="https://2pisoftware.com/wp-content/uploads/2023/03/sagemaker-1-300x209.png" />
-<img align="left" alt="Azure" width="26px" src="https://swimburger.net/media/ppnn3pcl/azure.png" />
-<img align="left" alt="MLStudio" width="26px" src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.45.2023122909/1703841324888/Microsoft.VisualStudio.Services.Icons.Default" />
-<img align="left" alt="GCP" width="30px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" />
 <br><br><br>
 <div align="left">
+  <img align="left" alt="AWS Sagemaker" width="30px" src="https://dce0qyjkutl4h.cloudfront.net/wp-content/uploads/2022/07/AWS-SageMaker-banner-img.webp" />
+  <img align="left" alt="Azure" width="26px" src="https://swimburger.net/media/ppnn3pcl/azure.png" />
+  <img align="left" alt="MLStudio" width="26px" src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.45.2023122909/1703841324888/Microsoft.VisualStudio.Services.Icons.Default" />
+  <img align="left" alt="GCP" width="30px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" />
   <img alt="Vertex" width="30px" src="https://stacktics.com/wp-content/uploads/2022/12/managed-ai-services-icon.png" />&nbsp&nbsp
   <img alt="Docker" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />&nbsp&nbsp
   <img alt="BigQuery" width="30px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" />&nbsp&nbsp

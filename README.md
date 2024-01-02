@@ -48,17 +48,17 @@ I am <b> Cyrus Mante</b>.I am currently working as a Freelance Data Scientist, A
   <img align="left" alt="Azure" width="26px" src="https://swimburger.net/media/ppnn3pcl/azure.png" />
   <img align="left" alt="MLStudio" width="26px" src="https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/vscode-ai/0.45.2023122909/1703841324888/Microsoft.VisualStudio.Services.Icons.Default" />
   <img align="left" alt="GCP" width="30px" src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?&name=gcp-logo-cloud.png" />
-  <img align="left" alt="Vertex" width="30px" src="https://stacktics.com/wp-content/uploads/2022/12/managed-ai-services-icon.png" />&nbsp&nbsp
-  <img align="left" alt="Docker" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />&nbsp&nbsp
-  <img align="left" alt="BigQuery" width="30px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" />&nbsp&nbsp
-  <img align="left" alt="Gradio" width="26px" src="https://seeklogo.com/images/G/gradio-icon-logo-908AE1836C-seeklogo.com.png" />&nbsp&nbsp
-  <img align="left" alt="Vercel" width="26px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" />&nbsp&nbsp
-  <img align="left" alt="PowerBI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" />&nbsp&nbsp
-  <img align="left" alt="Tableau" width="26px" src="https://www.lundatech.com/hubfs/tableau-logo.png" />&nbsp&nbsp
-  <img align="left" alt="Looker" width="20px" src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" />&nbsp&nbsp
-  <img align="left" alt="Data Studio" width="30px" src="https://seeklogo.com/images/G/google-data-studio-logo-6577854870-seeklogo.com.png" />&nbsp&nbsp
-  <img align="left" alt="R" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" />&nbsp&nbsp
-  <img align="left" alt="OpenAI" width="30px" src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" />&nbsp&nbsp
+  <img align="left" alt="Vertex" width="30px" src="https://stacktics.com/wp-content/uploads/2022/12/managed-ai-services-icon.png" />
+  <img align="left" alt="Docker" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
+  <img align="left" alt="BigQuery" width="30px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" />
+  <img align="left" alt="Gradio" width="26px" src="https://seeklogo.com/images/G/gradio-icon-logo-908AE1836C-seeklogo.com.png" />
+  <img align="left" alt="Vercel" width="26px" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" />
+  <img align="left" alt="PowerBI" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" /
+  <img align="left" alt="Tableau" width="26px" src="https://www.lundatech.com/hubfs/tableau-logo.png" />
+  <img align="left" alt="Looker" width="20px" src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" />
+  <img align="left" alt="Data Studio" width="30px" src="https://seeklogo.com/images/G/google-data-studio-logo-6577854870-seeklogo.com.png" />
+  <img align="left" alt="R" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" />
+  <img align="left" alt="OpenAI" width="30px" src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" />
   <img align="left" alt="Gemini" width="30px" src="https://cdn.sanity.io/images/e3itcv4k/production/c2f0bd228707148277c82143363067f11176ce69-900x900.webp" />&nbsp&nbsp
 </div>
 

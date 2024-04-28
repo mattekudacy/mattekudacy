@@ -17,8 +17,8 @@ I am <b> Cyrus Mante</b>.I am currently working as a Freelance Data Scientist, A
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattekudacy&repo=notevision-app&theme=radical" />
 </a>
 
-<a href="https://github.com/mattekudacy/spotify-recommendation-and-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattekudacy&repo=spotify-recommendation-and-analysis&hline_height=50&theme=radical" />
+<a href="https://github.com/mattekudacy/ELIFAI_V2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattekudacy&repo=ELIFAI_V2&hline_height=50&theme=radical" />
 </a>  
 
 

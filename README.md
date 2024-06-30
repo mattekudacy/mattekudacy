@@ -21,7 +21,6 @@ I am <b> Cyrus Mante</b>.I am currently working as a Freelance Data Scientist, A
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattekudacy&repo=ELIFAI_V2&hline_height=50&theme=radical" />
 </a>  
 
-
 <a href="https://streak-stats.demolab.com?user=mattekudacy&theme=radical">
   <img src="https://streak-stats.demolab.com?user=mattekudacy&theme=radical" width=420/>
 </a>

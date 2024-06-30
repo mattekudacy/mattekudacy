@@ -5,7 +5,7 @@ I am <b> Cyrus Mante</b>.I am currently working as a Freelance Data Scientist, A
 </div>
 
 ## &#x1f4c8; My GitHub Stats
-<div align="left">
+<div align="center">
 <a href="https://github.com/mattekudacy/mattekudacy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattekudacy&theme=radical" />
 </a>

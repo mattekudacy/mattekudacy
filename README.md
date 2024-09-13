@@ -1,7 +1,7 @@
 <div align="center">
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello and Welcome! 🧑‍💻</h1>
 
-I am <b> Cyrus Mante</b>. I am currently working as an AI/ML Engineer at Accenture <img src="https://companieslogo.com/img/orig/ACN-cce5b411.png?t=1720244490" width=15px>. I specialize in Data Science, Machine Learning, Artificial Intelligence, and Computer Vision and also talk about these topics.
+I am <b> Cyrus Mante</b>. I am currently working as an AI/ML Engineer by profession. I specialize in Data Science, Machine Learning, Artificial Intelligence, and Computer Vision and also talk about these topics.
 
 Feel free to check out my [website](https://mattekudacy.reflex.run/)!
 </div>

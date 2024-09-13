@@ -3,7 +3,7 @@
 
 I am <b> Cyrus Mante</b>. I am currently working as an AI/ML Engineer at Accenture <img src="https://companieslogo.com/img/orig/ACN-cce5b411.png?t=1720244490" width=15px>. I specialize in Data Science, Machine Learning, Artificial Intelligence, and Computer Vision and also talk about these topics.
 
-This is my second and main account. Feel free to check out my [website](https://mattekudacy.reflex.run/)!
+Feel free to check out my [website](https://mattekudacy.reflex.run/)!
 </div>
 
 ## &#x1f4c8; My GitHub Stats

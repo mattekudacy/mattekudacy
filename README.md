@@ -6,6 +6,17 @@ I am <b> Cyrus Mante</b>. I am currently working as an AI/ML Engineer by profess
 Feel free to check out my [website](https://mattekudacy.reflex.run/)!
 </div>
 
+<p align="center">
+
+  ![](https://github-profile-trophy.vercel.app/?username=mattekudacy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=mattekudacy&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="350" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattekudacy&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  
+  [![](https://visitcount.itsvg.in/api?id=KurutoDenzeru&icon=0&color=10)](https://visitcount.itsvg.in)
+  
+</p>
+
 ## &#x1f4c8; My GitHub Stats
 <div align="center">
 <a href="https://github.com/mattekudacy/mattekudacy">

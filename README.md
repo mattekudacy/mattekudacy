@@ -5,7 +5,7 @@ I am <b> Cyrus Mante</b>. I am currently working as an AI/ML Engineer\. I specia
 
 Feel free to check out my [website](https://mattekudacy.reflex.run/)!
 
-Check out the useless libraries I developed at [pypi.org](https://mattekudacy.reflex.run/](https://pypi.org/user/mattekudacy/)).
+Check out the useless libraries I developed at [pypi.org](https://pypi.org/user/mattekudacy/).
 </div>
 
 ## &#x1f4c8; My GitHub Stats

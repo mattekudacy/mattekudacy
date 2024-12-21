@@ -4,6 +4,8 @@
 I am <b> Cyrus Mante</b>. I am currently working as an AI/ML Engineer\. I specialize in Data Science, Machine Learning, Artificial Intelligence, and Computer Vision and also give talks about these topics.
 
 Feel free to check out my [website](https://mattekudacy.reflex.run/)!
+
+Check out the useless libraries I developed at [pypi.org](https://mattekudacy.reflex.run/](https://pypi.org/user/mattekudacy/)).
 </div>
 
 ## &#x1f4c8; My GitHub Stats

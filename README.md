@@ -34,8 +34,6 @@ Check out the useless libraries I developed at [pypi.org](https://pypi.org/user/
 <a href="https://streak-stats.demolab.com?user=mattekudacy&theme=radical">
   <img src="https://streak-stats.demolab.com?user=mattekudacy&theme=radical" width=420/>
 </a>
-
-![](https://github-profile-trophy.vercel.app/?username=mattekudacy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
 ## 🔧 Proficient with:

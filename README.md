@@ -3,7 +3,7 @@
 
 I am <b> Cyrus Mante</b>. I am currently working as an AI/ML Engineer\. I specialize in Data Science, Machine Learning, Artificial Intelligence, and Computer Vision and also give talks about these topics.
 
-Feel free to check out my [website](https://mattekudacy.reflex.run/)!
+Feel free to check out my [website]([https://mattekudacy.reflex.run/](https://kudacy.vercel.app/))!
 
 Check out the useless libraries I developed at [pypi.org](https://pypi.org/user/mattekudacy/).
 </div>

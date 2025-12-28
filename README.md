@@ -10,13 +10,6 @@ Check out the useless libraries I developed at [pypi.org](https://pypi.org/user/
 
 ## &#x1f4c8; My GitHub Stats
 <div align="center">
-<a href="https://github.com/mattekudacy/mattekudacy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattekudacy&theme=radical" />
-</a>
-<a href="https://github.com/mattekudacy/mattekudacy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattekudacy&show_icons=true&line_height=40&count_private=true&theme=radical" alt="Cyrus' GitHub Stats" />
-</a>
-
 <a href="https://github.com/mattekudacy/notevision-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mattekudacy&repo=notevision-app&theme=radical" />
 </a>
